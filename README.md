@@ -50,18 +50,7 @@ An end-to-end Business Intelligence project built using **Microsoft Power BI** t
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot inside the repository (for example, in an `images` folder) and replace the path below if needed.
-
-```text
-images/
-└── blinkit_dashboard.png
-```
-
-```markdown
-![Blinkit Dashboard](images/blinkit_dashboard.png)
-```
-
----
+<img width="1302" height="677" alt="Screenshot 2026-07-08 014104" src="https://github.com/user-attachments/assets/58597b90-e1d5-4096-bd97-0e743b18a285" />
 
 ## ⚙️ How to View the Dashboard
 
@@ -102,4 +91,4 @@ This project is intended for educational and portfolio purposes.
 **Aakansha Saxena**
 
 GitHub: https://github.com/aakanshasaxena05
-<img width="1302" height="677" alt="Screenshot 2026-07-08 014104" src="https://github.com/user-attachments/assets/58597b90-e1d5-4096-bd97-0e743b18a285" />
+
